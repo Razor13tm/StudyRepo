@@ -1,1 +1,1 @@
-PrintLn
+Println("Some string")
